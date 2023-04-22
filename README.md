@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Pratham Gupta 👋
+I'm a Game development and Blockchain Enthusiast!
 
 <!--
 **XDFrost/XDFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
