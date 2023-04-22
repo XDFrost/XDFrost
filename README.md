@@ -12,6 +12,5 @@ Connect with me through:
 [<img align="left" alt="Frost | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Frost | linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedln.svg" />][linkedln]
 
-[twitter]: 
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedln]: https://www.linkedin.com/in/pratham-gupta-590445255/
