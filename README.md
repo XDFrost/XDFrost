@@ -15,4 +15,4 @@ Connect with me through:
 
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedin]: https://www.linkedin.com/in/pratham-gupta-590445255/
-[discord]: https://discord.com/channels/@me
+[discord]: FROST#6824
