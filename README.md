@@ -12,6 +12,7 @@
 [<img align="left" alt="Frost | linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Frost | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Frost | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Frost | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -25,6 +26,7 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
+
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedin]: https://www.linkedin.com/in/pratham-gupta-590445255/
 [discord]: [962605552578478130](https://discord.gg/QXPb6cBcBF)
@@ -35,3 +37,4 @@
 [HTML5]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
+[twitch]: https://www.twitch.tv/ig_frostxd
