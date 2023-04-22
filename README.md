@@ -11,6 +11,8 @@ Connect with me through:
 
 [<img align="left" alt="Frost | linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Frost | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Frost | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedin]: https://www.linkedin.com/in/pratham-gupta-590445255/
+[discord]: https://discord.com/channels/@me
