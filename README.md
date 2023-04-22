@@ -27,7 +27,7 @@
 
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedin]: https://www.linkedin.com/in/pratham-gupta-590445255/
-[discord]: FROST#6824
+[discord]: 962605552578478130
 [Visual Studio Code]: https://code.visualstudio.com/download
 [Git]: https://git-scm.com/downloads
 [Github]: https://desktop.github.com/
