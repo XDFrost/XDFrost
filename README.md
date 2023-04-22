@@ -10,3 +10,5 @@ I'm a Blockchain Enthusiast and also interested in Game development!
 Connect with me through:
 
 [<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/__frostxd/
