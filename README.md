@@ -27,6 +27,15 @@
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BamaCharanChhandogi&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BamaCharanChhandogi&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BamaCharanChhandogi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BamaCharanChhandogi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedin]: https://www.linkedin.com/in/pratham-gupta-590445255/
 [discord]: [962605552578478130](https://discord.gg/QXPb6cBcBF)
