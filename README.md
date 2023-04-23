@@ -1,5 +1,5 @@
 ## Hi there, I'm Pratham Gupta 👋
-## I'm a Blockchain Enthusiast and also interested in Game Development!
+### I'm a Blockchain Enthusiast and also interested in Game Development!
 
 
 - 🔭 I build projects in free time.
@@ -36,7 +36,7 @@
 
 <br/>
 
-## GitHub Trophies
+## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=XDFrost&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
