@@ -36,7 +36,7 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=XDFrost&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
