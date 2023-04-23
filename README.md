@@ -1,5 +1,4 @@
-## Hi there, I'm Pratham Gupta 👋
-I'm a Blockchain Enthusiast and also interested in Game Development!
+## Hi there, I'm Pratham Gupta 👋 I'm a Blockchain Enthusiast and also interested in Game Development!
 
 
 - 🔭 I build projects in free time.
