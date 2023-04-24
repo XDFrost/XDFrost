@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Frost | linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Frost | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Frost | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Frost | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Frost | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
@@ -47,7 +47,7 @@
 
 [instagram]: https://www.instagram.com/__frostxd/
 [Linkedin]: https://www.linkedin.com/in/pratham-gupta-590445255/
-[discord]: [962605552578478130](https://discord.gg/QXPb6cBcBF)
+[discord]: https://discord.com/
 [Visual Studio Code]: https://code.visualstudio.com/download
 [Git]: https://git-scm.com/downloads
 [Github]: https://desktop.github.com/
