@@ -42,7 +42,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XDFrost&label=Profile%20views&color=0e75b6&style=flat" alt="BamaCharanChhandogi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XDFrost&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham Gupta" /> </p>
 
 
 [instagram]: https://www.instagram.com/__frostxd/
