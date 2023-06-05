@@ -4,7 +4,6 @@
 
 - 🔭 I build projects in free time.
 - 🌱 I’m currently a college student.
-- 👯 I’m looking to collaborate with a Game developer.
 
 
 ## Connect with me through:
