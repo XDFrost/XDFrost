@@ -31,7 +31,11 @@
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 <br/>
+
+## Holopin Badges:
 <br>
+
+[![An image of @xdfrost's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xdfrost)](https://holopin.io/@xdfrost)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
