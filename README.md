@@ -1,8 +1,6 @@
 # Hi there, I'm Pratham Gupta 👋
 ## I'm a Blockchain Enthusiast and also interested in Data Science!
-### If you like my work, you can always support me through: 
-<a href="https://www.buymeacoffee.com/pratham.gupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br />
+
 <br />
 
 - 🔭 I build projects in my free time.
