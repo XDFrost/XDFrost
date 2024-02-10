@@ -23,6 +23,7 @@
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />][Numpy]
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />][Matplotlib]
 [<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
+[<img align="left" alt="Sklearn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />][scikit-learn]
 [<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
 [<img align="left" alt="cpp" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][cpp]
 [<img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
@@ -85,3 +86,4 @@
 [Bootstrap]: https://getbootstrap.com
 [Flask]: https://flask.palletsprojects.com/en/3.0.x/
 [Matplotlib]: https://matplotlib.org
+[scikit-learn]: https://scikit-learn.org/stable/
