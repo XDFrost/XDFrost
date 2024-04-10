@@ -23,6 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+<br/> 
 
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />][Pandas]
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />][Numpy]
@@ -30,8 +31,6 @@
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 [<img align="left" alt="Sklearn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />][scikit-learn]
-<br/>
-<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
