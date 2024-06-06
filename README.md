@@ -5,7 +5,7 @@
 
 - 🔭 I build projects in my free time.
 - 🌱 I’m currently a college student.
-- ⚡ I'm currently learning ML.
+- ⚡ I am looking for some collaboration as well as open-source projects.
 
 
 ## Connect with me through:
