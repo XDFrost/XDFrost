@@ -44,6 +44,7 @@
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=remix)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+<br /> 
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 <br /> 
 <br /> 
