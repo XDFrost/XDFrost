@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 <br/> 
 
-![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+[<img align="left" alt="Visual Studio Code" width="100px" height = "30px" src="https://img.shields.io/badge/powerbi-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white" />][Powerbi]
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />][Pandas]
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />][Numpy]
 [<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />][Matplotlib]
@@ -94,3 +94,4 @@
 [Matplotlib]: https://matplotlib.org
 [scikit-learn]: https://scikit-learn.org/stable/
 [Django]: https://www.djangoproject.com/
+[Powerbi]: https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads
