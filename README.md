@@ -35,6 +35,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
+[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 [<img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
@@ -95,3 +96,4 @@
 [scikit-learn]: https://scikit-learn.org/stable/
 [Django]: https://www.djangoproject.com/
 [Powerbi]: https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads
+[Neovim]: https://neovim.io/
