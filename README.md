@@ -19,10 +19,12 @@
 ## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
 <br/> 
 
 [<img align="left" alt="Visual Studio Code" width="100px" height = "30px" src="https://img.shields.io/badge/powerbi-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white" />][Powerbi]
