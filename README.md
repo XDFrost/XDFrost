@@ -18,39 +18,11 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,solidity,cpp)](https://skillicons.dev)
 
-<br/> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,scikitlearn,flask,django)
 
-[<img align="left" alt="Visual Studio Code" width="100px" height = "30px" src="https://img.shields.io/badge/powerbi-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white" />][Powerbi]
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />][Pandas]
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />][Numpy]
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />][Matplotlib]
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-[<img align="left" alt="Sklearn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />][scikit-learn]
-
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=remix)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-<br /> 
-<br /> 
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,remix,git,github,html,css,tailwind,mysql,sqlite,postgres,docker,postman)](https://skillicons.dev)
 
 ## Holopin Badges:
 
