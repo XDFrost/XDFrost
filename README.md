@@ -1,11 +1,9 @@
 # Hi there, I'm Pratham Gupta 👋
 ## I'm a Blockchain Enthusiast and also interested in Data Science!
 
-<br />
-
 - 🔭 I build projects in my free time.
 - 🌱 I’m currently a college student.
-- ⚡ I am looking for some collaboration as well as open-source projects.
+- ⚡ I'm looking for some collaboration as well as open-source projects.
 
 
 ## Connect with me through:
