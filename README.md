@@ -20,7 +20,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,scikitlearn,flask,django)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,remix,git,github,html,css,tailwind,mysql,sqlite,postgres,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,remix,git,github,html,css,tailwind,redux,mysql,sqlite,postgres,docker,postman)](https://skillicons.dev)
 
 ## Holopin Badges:
 
