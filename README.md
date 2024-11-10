@@ -2,7 +2,7 @@
 ## I'm a Blockchain Enthusiast and also interested in Data Science!
 
 - 🔭 I build projects in my free time.
-- 🌱 I’m currently a college student.
+- 🌱 I’m currently learning Deep Learning.
 - ⚡ I'm looking for some collaboration as well as open-source projects.
 
 
@@ -16,11 +16,11 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,solidity,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,solidity,cpp)](https://skillicons.dev)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,scikitlearn,flask,django)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,remix,git,github,html,css,tailwind,redux,mysql,sqlite,postgres,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,remix,git,github,html,css,tailwind,redux,mongodb,mysql,sqlite,postgres,docker,postman)](https://skillicons.dev)
 
 ## Holopin Badges:
 
