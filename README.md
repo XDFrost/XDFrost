@@ -1,5 +1,5 @@
 # Hi there, I'm Pratham Gupta 👋
-## I'm a Blockchain Enthusiast and also interested in Data Science!
+## I'm a FullStack Enthusiast and also interested in Data Science!
 
 - 🔭 I build projects in my free time.
 - 🌱 I’m currently learning Deep Learning.
