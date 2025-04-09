@@ -2,7 +2,7 @@
 ## I'm a FullStack Enthusiast and also interested in Data Science!
 
 - 🔭 I build projects in my free time.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently working at Ikarus3D.
 - ⚡ I'm looking for some collaboration as well as open-source projects.
 
 
