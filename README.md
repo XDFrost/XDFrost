@@ -2,7 +2,7 @@
 ## I'm a Tech Enthusiast and also interested in Data Science!
 
 - 🔭 I build projects in my free time.
-- 🌱 I’m currently working at Ikarus3D.
+- 🌱 I’m currently looking for opertunities.
 - ⚡ I'm looking for some collaboration as well as open-source projects.
 
 
